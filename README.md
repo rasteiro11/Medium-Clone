@@ -1,5 +1,5 @@
 # Medium Clone MERN Blog Site
-**(https://medium-clone-03.herokuapp.com/)**
+# Visit the demo **https://medium-clone-03.herokuapp.com/**
 
 * ### Front-End Technologies 
   - Axios
