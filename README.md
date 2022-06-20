@@ -1,5 +1,8 @@
 # Medium Clone MERN Blog Site
 # Visit the demo **https://medium-clone-03.herokuapp.com/**
+# Credentials
+- Email: titico0306@gmail.com
+- Password: titico03
 
 * ### Front-End Technologies 
   - Axios
